@@ -2,6 +2,7 @@
 Brad Traversy'in eğitim setlerinin kodlarıdır. Kodlar üzerinde kişiseltirme, hata düzeltme veufak değişikliklerim mevcuttur. 
 
 License
+
 The MIT License
 
 Copyright (c) 2020-2021 Traversy Media https://traversymedia.com
