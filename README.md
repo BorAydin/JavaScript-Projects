@@ -1,5 +1,5 @@
 # JavaScript-Projects
-Brad Traversy'in eğitim setlerinin kodlarıdır. Kodlar üzerinde kişiseltirme, hata düzeltme veufak değişikliklerim mevcuttur. 
+Brad Traversy'in eğitim setlerinin kodlarıdır. Kodlar üzerinde kişiseltirme, hata düzeltme ve ufak değişikliklerim mevcuttur. 
 
 License
 
