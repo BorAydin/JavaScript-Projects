@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
 
-* {
+*{
   box-sizing: border-box;
 }
 
@@ -31,7 +31,7 @@ body {
   left: -100px;
 }
 
-.circle {
+.circle{
   background-color: #ff7979;
   height: 200px;
   width: 200px;
@@ -40,7 +40,7 @@ body {
   transition: transform 0.5s linear;
 }
 
-.container.show-nav .circle {
+.container.show-nav .circle{
   transform: rotate(-70deg);
 }
 
@@ -56,11 +56,11 @@ body {
   color: #fff;
 }
 
-.circle button:focus {
+.circle button:focus{
   outline: none;
 }
 
-.circle button#open {
+.circle button#open{
   left: 60%;
 }
 
@@ -70,7 +70,7 @@ body {
   transform-origin: top left;
 }
 
-.container.show-nav+nav li {
+.container.show-nav + nav li{
   transform: translateX(0);
   transition: 0.3s;
 }
@@ -110,6 +110,17 @@ nav ul li+li+li {
   transform: translateX(-200%);
 }
 
+nav a {
+  color: #fafafa;
+  text-decoration: none;
+  transition: all 0.5s;
+}
+
+nav a:hover {
+  color: #ff7979;
+  font-weight: bold;
+}
+
 .content img {
   max-width: 100%;
 }
@@ -119,7 +130,7 @@ nav ul li+li+li {
   margin: 50px auto;
 }
 
-.content h1 {
+.content h1{
   margin: 0;
 }
 
@@ -128,7 +139,7 @@ nav ul li+li+li {
   font-style: italic;
 }
 
-.content p {
+.content p{
   color: #333;
   line-height: 1.5;
 }
